@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NoSeQuePonerme</string>
+    <string name="no_tienes_cuenta_reg_strate_aqu">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="accede_con_tu_cuenta_de_miarmario">Accede con tu cuenta de MiArmario</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="imagen_de_perfil">Imagen de perfil</string>
+    <string name="elegir_desde_galeria">Elegir desde galeria</string>
+    <string name="hacer_foto">Hacer foto</string>
+    <string name="eliminar_imagen_de_perfil">Eliminar imagen de perfil</string>
+    <string name="seleccionar_foto">Seleccionar Foto</string>
+    <string name="a_ade_nueva_ropa_a_tu_armario">AÑADE NUEVA ROPA A TU ARMARIO</string>
+    <string name="nombre_descriptivo">Nombre descriptivo</string>
+    <string name="tipo_de_ropa">Tipo de ropa</string>
+    <string name="imgadd">imgAdd</string>
+    <string name="color">Color</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nombre">Nombre</string>
+    <string name="ver_imagen_de_perfil">Ver imagen de perfil</string>
+    <string name="gu_rdala_si_te_gusta">Guárdala si te gusta</string>
+    <string name="regresar_al_menu_principal">REGRESAR AL MENU PRINCIPAL</string>
+    <string name="nombre_de_prueba">Nombre De Prueba</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="calzado">Calzado</string>
+    <string name="camisetas">Camisetas</string>
+    <string name="actualizar_informaci_n">Actualizar información</string>
+    <string name="pantalones">Pantalones</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="cargando">Cargando...</string>
+    <string name="accede_aqu_con_tu_cuenta">Accede aquí con tu cuenta</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre_y_apellidos">Nombre y apellidos</string>
+    <string name="reg_strate_en_mi_armario">Regístrate en Mi-Armario</string>
+    <string name="miarmario">MiArmario</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+    <string name="a_adir_ropa">Añadir Ropa</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

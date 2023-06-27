@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="negro">#FF000000</color>
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="rojo">#B40404</color>
+    <color name="colorPrimary">#6774BC</color>
+    <color name="colorPrimaryDark">#2C384A</color>
+    <color name="colorAcent">#F57C00</color>
+    <color name="naranja">#F57C00</color>
+    <color name="lightgrey">#E8E4E4</color>
+    <color name="fondo">#E8E4E4</color>
+</resources>
